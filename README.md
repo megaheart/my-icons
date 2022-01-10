@@ -1,1 +1,1 @@
-# Provider icons for my website
+# Provide icons for my website
